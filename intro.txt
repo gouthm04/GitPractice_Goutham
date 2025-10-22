@@ -1,0 +1,1 @@
+I learned that Git helps in version control and collaboration by tracking changes, allowing branching, and merging efficiently.
